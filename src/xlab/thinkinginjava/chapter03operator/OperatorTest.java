@@ -1,4 +1,4 @@
-package xlab.thinkinginjava.chapter03Operator;
+package xlab.thinkinginjava.chapter03operator;
 
 public class OperatorTest {
     public static void main(String[] args) {
