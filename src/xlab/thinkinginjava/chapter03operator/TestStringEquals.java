@@ -1,4 +1,4 @@
-package xlab.thinkinginjava;
+package xlab.thinkinginjava.chapter03operator;
 
 public class TestStringEquals {
     public static void main(String[] args) {
