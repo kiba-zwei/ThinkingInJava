@@ -9,7 +9,7 @@ package xlab.thinkinginjava.chapter05initialization;
 public class VariableArgumentLists {
     public static void main(String[] args) {
         f(1, 'a');
-        f('a', 'b');
+        // f('a', 'b');
     }
 
     static void f(float i, Character... args) {
